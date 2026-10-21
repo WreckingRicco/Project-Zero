@@ -6,3 +6,4 @@ This is my first entry and i want to make a list eventually of how to build an r
 - Step 4 git commit -m (creating local snapshop of progress)
 - Step 5 git push orgin main (pblish to main branch)
 )
+second attemp to confirm how to commit offically and correctly 
