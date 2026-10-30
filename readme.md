@@ -8,4 +8,6 @@ This is my first entry and i want to make a list eventually of how to build an r
 )
 second attemp to confirm how to commit offically and correctly 
  lets try another update
- 
+ Added a new key binding list. 
+ input for the list as follows: mouse senstiity BLUE 4.45
+ ads sensitifiy multiplyer .70 on 10 29 26
